@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow:
+
+Sitemap: https://yung-bust.github.io/sitemap/sitemap.txt
